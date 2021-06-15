@@ -1,1 +1,1 @@
-# Test slider widget for Flutter. Google random pics are used.
+# Test slider widget for Flutter. Google web pics are used.
